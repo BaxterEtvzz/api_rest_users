@@ -1,7 +1,9 @@
 # Rest API User
 
 This project involves developing a REST API for user management in accordance with the challenge specifications. The API interects with a MongoDB database for data management and also consumes the Studio Ghibli API, depending on the users's role.
--It's essential to provide your IP address for MongoDB network access. Once your IP is registered, you can proceed with the installation process.-
+```diff
+- It's essential to provide your IP address for MongoDB network access. Once your IP is registered, you can proceed with the installation process.
+```
 
 ## Installation
 
