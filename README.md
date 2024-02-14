@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 ```
 If you encounter an error such as 'ERROR: Could not install packages due to an OSError: [Errno 2] No such file or directory:'
 
-please install the following dependencies, using the provided commands 🥲:
+please install the following dependencies, using the provided commands, one by one 🥲:
 
 ```bash
 pip install fastapi
